@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+# open project in VisualStudio Code Terminal
+
 # install dependencies
 npm install
 
