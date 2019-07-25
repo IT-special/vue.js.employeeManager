@@ -5,6 +5,18 @@
 ## Build Setup
 
 ``` bash
+# create databases as employee at this link https://console.firebase.google.com
+into 'employee' create fields as
+
+employee_id:
+name:
+dept:
+position:
+
+fill out the fields
+
+# for firebaseInit and firebaseConfig take API code from https://console.firebase.google.com/project/[your project name]/overview and paste inside the file
+
 # open project in VisualStudio Code Terminal
 
 # install dependencies
